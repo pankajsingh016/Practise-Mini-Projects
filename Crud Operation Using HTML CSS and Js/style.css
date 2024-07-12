@@ -1,0 +1,58 @@
+body{
+    background-image: url('cartimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+}
+
+table{
+    width: 80%;
+    margin: 40px auto;
+    background-color: rgba(156, 162, 162, 0.732);
+}
+
+table.list{
+    text-align: center;
+    width: 100%;
+}
+
+td{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px 15px;
+}
+
+tr:nth-child(even), table.list thead> tr{
+    background-color: white;
+}
+
+input[type="text"], input[type="number"]{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0 ;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+#sub{
+    width: 40%;
+    padding: 12px 40px;
+    margin: 5px 12px ;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 9px;
+    font-size: 1rem;
+}
+
+#sub:hover{
+    width: 40%;
+    padding: 12px 40px;
+    background-color: black;
+    color: white;
+    margin: 5px 12px ;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 9px;
+    font-size: 1rem;
+}

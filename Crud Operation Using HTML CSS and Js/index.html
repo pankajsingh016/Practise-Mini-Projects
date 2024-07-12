@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Crud Operation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 style="padding-left: 40%;"> Basic Crud Operations </h1>
+    <table>
+        <tr>
+            <td>
+                <form autocomplete="off" onsubmit="onFormSubmit(event)">
+                    <div>
+                        <label for="productCode">Product Code</label>
+                        <input type="text" name="productCode" id="productCode">
+                    </div>
+                    <div>
+                        <label for="product">Product Name</label>
+                        <input type="text" name="product" id="product">
+                    </div>
+                    <div>
+                        <label for="qty">Quantity</label>
+                        <input type="number" name="qty" id="qty">
+                    </div>
+                    <div>
+                        <label for="perPrice">Price per quantity</label>
+                        <input type="number" name="perPrice" id="perPrice">
+                    </div>
+                    <div class="form_action--button">
+                        <input type="submit" value="Submit" id="sub">
+                        <input type="reset" value="Reset" id="sub">
+                    </div>
+                </form>
+            
+            <td>
+                    <table class="list" id="storeList">
+                        <thead>
+                            <tr>
+                                <th>Product Code</th>
+                                <th>Name</th>
+                                <th>Quantity</th>
+                                <th>Price/Quantity</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                        </tbody>
+                    </table>
+            </td>
+        </td>
+        </tr>
+    </table>
+    <script type="text/javascript" src="./script.js"></script>
+</body>
+
+</html>
