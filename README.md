@@ -1,8 +1,8 @@
 # Practise-Mini-Projects
 
-Motive of creating mini-projects is to get out of tutorial hell as many people get into those
-I am a beginner in web-dev for now.
-*Tutorial Hell* is a state in which the learner only follow the tutorial rather than building some thing of their own the best way to get out of it is to practise and challange yourself to do things on your own.
+Motive of creating mini-projects is to get out of tutorial hell as many people fall into it.
+I am a beginner in web-dev for now.<br>
+**Tutorial Hell** is a state in which the learner only follow the tutorial rather than building some thing of their own the best way to get out of it is to practise and challange yourself to do things on your own.
 ``
 Googling things for building projects or questions/doubts you come across during the project creation is a good thing and many developers do this.
 ``
