@@ -1,0 +1,143 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body {
+  background-color: #0e0e0e;
+}
+
+navbar {
+  color: white;
+  height: 100%;
+  font-size: 17px;
+  font-weight: 700;
+  display: block;
+  padding: 13px 2px;
+  margin-left: 10%;
+}
+
+navbar span {
+  font-size: 20px;
+  padding: 10px;
+}
+navbar span img{
+    width:20px;
+    margin-right: 10px;
+  }
+
+navbar a {
+  text-decoration: none;
+  color: #9298af;
+  padding: 12px;
+}
+
+navbar a:hover {
+  color: #e9eaeb;
+}
+
+ .navbaricon{
+    margin-left: 14%;
+    padding: 2px;
+    height: 20px;
+}
+
+.navbarsearch{
+    width: 200px;
+    /* color: white; */
+    background-color: #0e0e0e;
+    background-image: url('searchicon.png');
+    padding: 5px 12px 5px 36px;
+}
+
+.navbarbutton{
+    padding: 4px 3px;
+    background-color: #0069B9;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    width: 7%;
+    border: 5px solid #0069B9;   
+    border-radius: 7px;
+}
+
+a{
+    color: #4DAAFC;
+}
+
+.breaker{
+    padding: 20px;
+    text-align: center;
+    color: #9298af;
+    font-size:14px;
+    font-weight: 400;
+}
+
+
+.dashboard{
+    display: flex;
+    justify-content: space-evenly;
+    color: #E9EAEB;
+    padding: 30px;
+    margin: 0px 50px;
+}
+
+.left-child{
+    margin-top: 60px;
+    width: 40%;
+}
+
+.left-child span{
+    font-size: small;
+    font-weight: 600;
+    background-color: #242323;
+    border: 1px solid #303758;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.left-child h1{
+    margin: 25px 10px;
+    font-size: 58px;
+    font-weight:500;
+    display: block;
+}
+
+.dashimg{
+    width:55%;
+}
+
+.left-child button{
+    margin: 3px 3px 20px 3px;
+    padding: 14px 30px;
+    background-color: #0b81e1;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    width: fit-content;
+    border: 2px solid #0069B9;   
+    border-radius: 7px;
+}
+
+.left-child button:hover{
+    margin: 3px 3px 20px 3px;
+    padding: 14px 30px;
+    background-color: #005BA4;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    width: fit-content;
+    border: 2px solid #0069B9;   
+    border-radius: 7px;
+}
+
+.left-child p{
+    margin-bottom: 12px;
+}
+
+.subhead{
+    font-size: 12px;
+}

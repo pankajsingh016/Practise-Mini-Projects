@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+.navi{
+    background-color: #000000;
+    color: #ffffff;
+    height: 90px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 22px;
+}
+
+.navitems img{
+    height: 32px;
+    vertical-align: middle;
+}
+
+.navitems{
+    width: inherit;
+}
+
+.navitems span{
+    margin-left: 5%;
+    margin-right: 44%;
+}
+
+.btn{
+    font-size: 25px;
+    padding: 10px 25px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+#signup{
+    margin-left: 1%;
+    background: #4C5FD5;
+    border: none;
+}
+
+#signup:hover{
+    background-color: white;
+    color: black;
+}
+
+.dashboard{
+    background-color: #dadbf1;
+    font-size: 40px;
+    height: 400px;
+   
+}
+
+.dash-child{
+    font-size: 70px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 30px 0 30px;
+    box-sizing: border-box;
+}
+
+.dash-child form input{
+    height: 60px;
+    margin: 20px 0;
+    font-size: 22px;
+    width: 700px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-indent: 20px;
+}
