@@ -1,0 +1,55 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Segoe UI';
+}
+
+body{
+    background-color: #D5E1EF;
+    height: 100%;
+}
+
+.cardparent{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card{
+    max-width: 180px;
+    box-sizing: border-box;
+}
+
+.childcard {
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.content{
+    background-color: white;
+    text-align: center;
+}
+
+.content h4{
+    font-size: medium;
+    padding: 15px 5px;
+}
+
+.content p{
+    font-size: x-small;
+    padding: 0 10px 10px 10px;
+}
+
+
+img{
+    max-width: 250px;
+    border-radius: 8px;
+    background-color: transparent;
+}

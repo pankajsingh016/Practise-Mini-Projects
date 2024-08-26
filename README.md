@@ -13,3 +13,5 @@ Sno. | Project Name | Code Link | Live Link |
 2|Responsive User Card Degin Using HTML|[Code](https://github.com/pankajsingh016/Practise-Mini-Projects/tree/main/Responsive%20Card%20Design)|[]()|
 3|Login Page Inspired by hassan coder medium Login Page | [Code](https://github.com/pankajsingh016/Practise-Mini-Projects/tree/main/Login%20Page) |[Live](https://66a735af0aed3bfa2e86f4d4--extraordinary-torrone-702619.netlify.app/)|
 4| VS code Landing Page (Assignment 3 Cohort)|[Code](https://github.com/pankajsingh016/Practise-Mini-Projects/tree/main/VsCode%20Landing%20Page%20copy)|[Live](https://66ae80be3cf2b4cc18b521c5--papaya-marzipan-8af442.netlify.app/) 
+5| QR Code Card | [Code](https://github.com/pankajsingh016/Practise-Mini-Projects/tree/main/QR%20Code%20Card%20Design) | [Live](https://66cc197b616fe4ea323c85f6--superlative-hamster-64df7a.netlify.app/) |
+<!-- 6| QR Code Card | [Code]() | [Live]() | -->
