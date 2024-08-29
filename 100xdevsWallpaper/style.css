@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+
+body{
+    background-color: rgba(0, 0, 0, 0.847);
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span{
+    border: 2px solid rgb(247, 247, 247);
+    padding: 40px;
+    font-weight: 400;
+    font-size: 141px;
+    color: rgba(167, 15, 213, 0.77);
+    font-family: 'Allerta Stencil', sans-serif;
+}

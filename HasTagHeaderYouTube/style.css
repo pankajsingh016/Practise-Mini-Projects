@@ -1,0 +1,38 @@
+.body{
+    margin: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hastag-header{
+    /* height: 300px; */
+    padding: 5rem;
+    background-color: #065fd4;
+    color: white;
+    background-image: url(./images/background.png);
+    background-size: 240px;
+    background-position-x: 100%;
+    background-position-y: 44%;
+    background-repeat: no-repeat;
+}
+
+h1{
+    margin: 0px;
+    margin-bottom: 1rem;
+    font-size: 3rem;
+}
+
+.hastag-header span{
+    font-size: 1.5rem;
+}
+
+.hastag-header  img{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    border: 5px solid white;
+    vertical-align: middle;
+}
+
+img + img{
+    margin-left: -1rem;
+}
